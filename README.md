@@ -5,3 +5,6 @@ Step to follow to run the code
 3. dataset_create_pre_process.ipynb - reads the dataset and pre-process the data and create a processed dataset with 1000 data per class.
 4. data_feature_selection.ipnyb - features are analysed and extracted. 
 5. syn_SELECITON_training_ml.ipynb - ML model is trained with feature analysis and hyper  parameter tuning. (code is implmented to be deployed on Google Colab)
+6.isp project group members
+7.JUDITH MALSHINI LINDAMULAGE-IT20222840
+8.MANDIRA PABASARI LIYANAGE -IT19966236
